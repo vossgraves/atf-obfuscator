@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /root/ArchiveTune/morideobfuscator/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest1175130724275803992.xml:2:13-83
+INJECTED from /root/ArchiveTune/morideobfuscator/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest1175130724275803992.xml:2:13-83
+	package
+		INJECTED from /root/ArchiveTune/morideobfuscator/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest1175130724275803992.xml
+	xmlns:android
+		ADDED from /root/ArchiveTune/morideobfuscator/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest1175130724275803992.xml:2:23-81
+uses-sdk
+INJECTED from /root/ArchiveTune/morideobfuscator/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest1175130724275803992.xml reason: use-sdk injection requested
+INJECTED from /root/ArchiveTune/morideobfuscator/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest1175130724275803992.xml
+INJECTED from /root/ArchiveTune/morideobfuscator/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest1175130724275803992.xml
+	android:targetSdkVersion
+		INJECTED from /root/ArchiveTune/morideobfuscator/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest1175130724275803992.xml
+	android:minSdkVersion
+		INJECTED from /root/ArchiveTune/morideobfuscator/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest1175130724275803992.xml
